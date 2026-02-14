@@ -237,7 +237,7 @@ Error generating stack: `+e.message+`
 `,`
 `,"  ",f.jsx("span",{className:"text-[#9cdcfe]",children:"rank"}),": ",f.jsx("span",{className:"text-[#ce9178]",children:'"Leader of Noobs"'}),",",`
 `,`
-`,"  ",f.jsx("span",{className:"text-[#9cdcfe]",children:"status"}),": ",f.jsx("span",{className:"text-[#ce9178]",children:'"Active/No Actuve"'}),",",`
+`,"  ",f.jsx("span",{className:"text-[#9cdcfe]",children:"status"}),": ",f.jsx("span",{className:"text-[#ce9178]",children:'"Active/Inactive"'}),",",`
 `,`
 `,"  ",f.jsx("span",{className:"text-[#da70d6]",children:"["}),`
 `,"    ",f.jsx("span",{className:"text-[#ce9178]",children:'"No Coding"'}),",",`
